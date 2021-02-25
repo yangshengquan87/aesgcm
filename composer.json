@@ -1,0 +1,22 @@
+{
+	"authors": [
+		{
+			"name": "Tanqm",
+			"email": "349703434@qq.com"
+		}
+	],
+	"require": {
+		"spomky-labs/php-aes-gcm": "^1.2"
+	},
+	"autoload": {
+		"files": [
+		  "./Curl.php"
+		]
+	},
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://mirrors.aliyun.com/composer/"
+		}
+	}
+}
